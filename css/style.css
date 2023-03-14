@@ -43,6 +43,10 @@ header {
   padding: 30px;
 }
 
+.navbar div {
+  display: inline-block;
+}
+
 /*
 .navbar button:hover {
   background: #329FFC;
