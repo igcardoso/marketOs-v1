@@ -39,6 +39,7 @@ header {
 }
 .navbar {
   backdrop-filter: blur(20px);
+  background: #0000003f;
   padding: 30px;
   position: absolute;
   top: 100%;
