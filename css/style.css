@@ -125,7 +125,7 @@ header {
   color: #329FFC;
   font-size: 33px;
   z-index: 10001;
-  display: none;
+  display: block;
 }
 
 
